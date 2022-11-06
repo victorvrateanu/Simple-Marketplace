@@ -1,9 +1,10 @@
 Marketplace for android made in React Native.
 
 Features:
-Friendly UI that helps the user to detect human-made errors
-Login or create new accounts
-Shop and add items to the cart
+
+ * Friendly UI that helps the user to detect human-made errors. 
+ * Login or create new accounts 
+ * Shop and add items to the cart
 
 This is a great example for newcomers in React Native. Feel free to copy and learn this project.
 
