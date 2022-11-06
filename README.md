@@ -6,6 +6,8 @@ Login or create new accounts
 Shop and add items to the cart
 
 This is a great example for newcomers in React Native. Feel free to copy and learn this project.
+
+
 ! I made this app using tutorials from the internet !
 
 ![image](https://user-images.githubusercontent.com/73831398/200180853-482d1b64-d15a-4a65-83c2-3c21f7cdb478.png)
